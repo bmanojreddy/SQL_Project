@@ -1,2 +1,9 @@
 # SQL_Project
-Simple Restaurant Sales Analysis - SQL Project .
+
+Restaurant Sales Analysis
+This project focuses on analyzing restaurant sales data using SQL. The analysis is divided into three key objectives, each addressing specific questions related to restaurant sales performance.
+
+contains 3 sets of questions ( 3 Objectives )
+Contains all the SQL queries related to the objectives.
+Tools Used
+SQL (Structured Query Language)
