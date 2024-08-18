@@ -1,4 +1,4 @@
-#Restaurant Sales Analysis
+Restaurant Sales Analysis
 
 
 This project focuses on analyzing restaurant sales data using SQL. The analysis is divided into three key objectives, each addressing specific questions related to restaurant sales performance.
