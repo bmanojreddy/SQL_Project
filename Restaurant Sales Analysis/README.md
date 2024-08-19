@@ -6,4 +6,4 @@
 
 * Contains 3 sets of questions ( 3 Objectives ),Contains all the SQL queries related to the objectives.
 
-* Tools Used : SQL (Structured Query Language) , MYsql Workbench
+
