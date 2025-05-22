@@ -1,0 +1,501 @@
+PatientID,PatientName,Age,Gender,Diagnosis,Treatment,DoctorName,HospitalName,AdmissionDate,DischargeDate,BillAmount
+1,Kevin Johnson,27,Male,Arthritis,NSAIDs,Nathaniel Travis,City Hospital,2024-08-31,2024-09-09,1610.75
+2,Philip Rosales,90,Male,Flu,Rest and Fluids,Angela Rodriguez,Green Valley Clinic,2024-07-10,2024-07-17,8790.7
+3,William Logan,84,Female,Fracture,Casting,Curtis Jennings,Sunrise Medical Center,2024-05-25,2024-05-28,9092.27
+4,Brandi Rodriguez,30,Female,Migraine,Pain Relievers,Nathaniel Travis,Green Valley Clinic,2024-10-24,2024-10-25,7668.24
+5,Ashley Erickson,82,Male,Migraine,Pain Relievers,James Blair,Hope Hospital,2025-05-05,2025-05-14,8257.86
+6,Dennis Howell,78,Male,COVID-19,Antivirals,Michael Johnston,Hope Hospital,2024-10-02,2024-10-06,5017.38
+7,Tina Summers,74,Female,Asthma,Inhalers,Angela Rodriguez,Green Valley Clinic,2024-11-22,2024-11-23,2460.76
+8,Dana Brooks,62,Female,Fracture,Casting,Deborah Day,Green Valley Clinic,2024-07-28,2024-08-06,6856.79
+9,Wyatt Shea,24,Male,Depression,Therapy,Juan Jones,Care & Cure,2024-11-01,2024-11-10,4111.47
+10,Mark Cunningham,81,Male,Allergy,Antihistamines,Stephanie Hale,City Hospital,2024-12-11,2024-12-17,8631.55
+11,Kara Lewis,80,Male,COVID-19,Antivirals,James Blair,Green Valley Clinic,2024-10-20,2024-10-22,2380.69
+12,Andrea Mcmillan,71,Male,Hypertension,Beta Blockers,Nathaniel Travis,Hope Hospital,2024-08-23,2024-08-24,9310.45
+13,Patricia Skinner,15,Male,Fracture,Casting,Christina Rivera,Sunrise Medical Center,2024-11-07,2024-11-15,6595.79
+14,Amy Wu,30,Male,Flu,Rest and Fluids,Suzanne Coleman,City Hospital,2024-08-20,2024-08-27,5574.38
+15,Brandon Barnes,53,Female,Fracture,Casting,Tina Chavez,Sunrise Medical Center,2024-05-21,2024-05-28,1892.48
+16,Timothy Newman,10,Female,Diabetes,Insulin Therapy,Suzanne Coleman,Green Valley Clinic,2025-02-23,2025-02-25,4355.97
+17,David Freeman,89,Female,Diabetes,Insulin Therapy,John Barajas,Hope Hospital,2024-09-06,2024-09-13,4190.06
+18,Megan Robinson,15,Female,Depression,Therapy,Adam Hernandez,Care & Cure,2024-10-10,2024-10-15,9228.09
+19,Cody Robbins,25,Female,Diabetes,Insulin Therapy,John Barajas,City Hospital,2024-09-28,2024-10-04,5503.99
+20,Brian Lewis,35,Female,Flu,Rest and Fluids,Juan Jones,Green Valley Clinic,2024-11-18,2024-11-24,5965.53
+21,Gary Pugh,44,Female,Migraine,Pain Relievers,Adam Hernandez,City Hospital,2024-12-14,2024-12-23,7185.98
+22,Julie Braun,36,Female,Flu,Rest and Fluids,Dakota Huff,Green Valley Clinic,2025-04-17,2025-04-26,8590.19
+23,Mitchell Berger,33,Male,Allergy,Antihistamines,Ernest Johnson,Sunrise Medical Center,2025-04-28,2025-05-04,6025.82
+24,Kelly Cook,1,Male,Hypertension,Beta Blockers,Christina Rivera,Care & Cure,2024-06-06,2024-06-14,8045.57
+25,Debra Potter,15,Female,COVID-19,Antivirals,Christina Rivera,Hope Hospital,2024-09-04,2024-09-08,2372.93
+26,Latoya Wilkinson,31,Male,COVID-19,Antivirals,Michael Johnston,Hope Hospital,2024-09-12,2024-09-19,5465.34
+27,Christine Faulkner,3,Female,Arthritis,NSAIDs,David Morgan,Green Valley Clinic,2025-01-11,2025-01-20,9099.15
+28,Molly Davidson,87,Male,Fracture,Casting,David Morgan,City Hospital,2024-06-16,2024-06-19,6360.64
+29,Mrs. Ashley Miller,21,Male,Arthritis,NSAIDs,Juan Jones,Hope Hospital,2025-03-18,2025-03-26,3803.71
+30,Antonio Harrison,79,Female,Arthritis,NSAIDs,Brett Hays,Care & Cure,2024-08-23,2024-08-26,2084.12
+31,Anna Lam,4,Male,Fracture,Casting,Christina Rivera,Care & Cure,2024-05-25,2024-06-02,1068.33
+32,Natalie Bennett,66,Female,Fracture,Casting,Nathaniel Travis,Care & Cure,2024-10-19,2024-10-27,3371.91
+33,Miss Angela Adkins,82,Male,Diabetes,Insulin Therapy,John Barajas,Green Valley Clinic,2024-12-09,2024-12-10,2527.18
+34,Vincent Clark,52,Male,COVID-19,Antivirals,Tina Chavez,Care & Cure,2025-02-21,2025-02-25,8512.68
+35,Jacob Coleman,76,Female,COVID-19,Antivirals,Ernest Johnson,Hope Hospital,2024-11-22,2024-12-01,1361.19
+36,Ashlee Herrera,73,Male,Fracture,Casting,Curtis Jennings,Hope Hospital,2024-06-24,2024-06-26,7548.75
+37,Norma Torres,13,Male,Migraine,Pain Relievers,Deborah Day,Sunrise Medical Center,2024-07-28,2024-08-04,4915.95
+38,Katrina Waters,52,Male,Migraine,Pain Relievers,Cody Robertson,Green Valley Clinic,2025-04-21,2025-05-01,2908.0
+39,Kevin Oneal,67,Female,Migraine,Pain Relievers,Adam Hernandez,Care & Cure,2024-11-15,2024-11-24,4537.82
+40,Mercedes Taylor,41,Female,Flu,Rest and Fluids,Suzanne Coleman,Sunrise Medical Center,2024-09-26,2024-10-05,2161.72
+41,Kristina Johnson,13,Male,COVID-19,Antivirals,Christina Rivera,Green Valley Clinic,2025-01-31,2025-02-07,2845.04
+42,Bryan Fletcher,42,Male,Asthma,Inhalers,Brett Hays,Green Valley Clinic,2025-02-16,2025-02-24,5489.44
+43,Deborah Rocha,59,Male,Arthritis,NSAIDs,Alexandria Jones,Sunrise Medical Center,2024-11-20,2024-11-25,4439.05
+44,David Coleman DVM,25,Female,Migraine,Pain Relievers,David Morgan,Sunrise Medical Center,2025-04-01,2025-04-07,7975.81
+45,Robert Lawrence,11,Male,Allergy,Antihistamines,Deborah Day,Care & Cure,2024-11-15,2024-11-19,2094.14
+46,Mark Wade,36,Male,Asthma,Inhalers,Curtis Jennings,City Hospital,2025-03-28,2025-04-06,7586.32
+47,Margaret Page,2,Female,Hypertension,Beta Blockers,Suzanne Coleman,Green Valley Clinic,2025-03-13,2025-03-19,9020.0
+48,Scott Drake,18,Male,Fracture,Casting,Alexandria Jones,Care & Cure,2024-09-27,2024-10-05,9215.22
+49,Craig Lang,38,Male,Flu,Rest and Fluids,Ernest Johnson,City Hospital,2024-10-06,2024-10-12,5981.69
+50,Frank Lambert,76,Female,Fracture,Casting,Suzanne Coleman,Care & Cure,2025-03-21,2025-03-24,2203.5
+51,Amber Christensen,26,Female,COVID-19,Antivirals,Nathaniel Travis,City Hospital,2025-04-26,2025-04-29,5178.22
+52,Cassandra Ray,36,Male,Asthma,Inhalers,Alexandria Jones,Green Valley Clinic,2025-05-19,2025-05-21,5271.18
+53,Dylan Sims,47,Male,Fracture,Casting,Carrie Mcdaniel,Hope Hospital,2025-05-02,2025-05-11,9213.81
+54,John Harris,81,Male,Hypertension,Beta Blockers,Curtis Jennings,Green Valley Clinic,2024-06-16,2024-06-22,1640.59
+55,Michelle Baker,61,Male,Hypertension,Beta Blockers,Suzanne Coleman,Green Valley Clinic,2024-07-08,2024-07-14,8669.99
+56,Grace Spencer,81,Male,Fracture,Casting,Nathaniel Travis,Care & Cure,2025-05-01,2025-05-02,1532.36
+57,Kenneth Evans,43,Female,Fracture,Casting,David Morgan,Sunrise Medical Center,2024-08-06,2024-08-13,5991.13
+58,Devin Irwin,81,Female,Hypertension,Beta Blockers,David Morgan,Care & Cure,2024-10-01,2024-10-09,3327.2
+59,Anna Woods,55,Male,COVID-19,Antivirals,Brett Hays,City Hospital,2025-04-09,2025-04-13,4635.99
+60,John Charles,65,Male,Flu,Rest and Fluids,Deborah Day,Hope Hospital,2025-01-10,2025-01-14,8729.23
+61,Shirley Johnson,70,Male,Arthritis,NSAIDs,Cody Robertson,Hope Hospital,2024-09-25,2024-10-05,2370.35
+62,Kristin Griffin,73,Female,Allergy,Antihistamines,James Blair,City Hospital,2024-08-28,2024-09-07,3532.37
+63,Sherry Wilson,82,Male,Asthma,Inhalers,Ernest Johnson,Hope Hospital,2024-09-15,2024-09-23,3154.48
+64,James Gonzalez,43,Female,Arthritis,NSAIDs,Suzanne Coleman,Green Valley Clinic,2024-06-17,2024-06-26,8322.18
+65,Jessica Brady,14,Female,Diabetes,Insulin Therapy,Adam Hernandez,Green Valley Clinic,2024-09-18,2024-09-27,9879.25
+66,Shaun Gutierrez,29,Female,Asthma,Inhalers,Angela Rodriguez,Hope Hospital,2025-01-10,2025-01-18,8880.57
+67,Caitlin Williams,64,Female,Flu,Rest and Fluids,Dakota Huff,Sunrise Medical Center,2024-07-16,2024-07-20,6907.93
+68,Kelly Cruz,38,Male,Depression,Therapy,Tina Chavez,Green Valley Clinic,2024-07-08,2024-07-13,9867.21
+69,Allison Martin,82,Male,Arthritis,NSAIDs,Alexandria Jones,Sunrise Medical Center,2024-10-27,2024-11-05,6944.95
+70,Andrew Freeman,15,Male,Diabetes,Insulin Therapy,Dakota Huff,Green Valley Clinic,2024-11-02,2024-11-11,5535.01
+71,Corey Ramirez,90,Female,Asthma,Inhalers,Christina Rivera,Care & Cure,2024-10-21,2024-10-30,8538.23
+72,Theresa Stevens,77,Male,Diabetes,Insulin Therapy,Alexandria Jones,Care & Cure,2024-10-08,2024-10-15,5640.33
+73,Danielle Obrien,56,Male,Depression,Therapy,Deborah Day,Sunrise Medical Center,2025-02-08,2025-02-17,7998.09
+74,Darren Garcia,11,Male,Arthritis,NSAIDs,Adam Hernandez,Green Valley Clinic,2025-04-09,2025-04-15,4541.18
+75,Cody Petersen,43,Male,Diabetes,Insulin Therapy,Curtis Jennings,Green Valley Clinic,2025-05-03,2025-05-07,5086.21
+76,Edward Vasquez,72,Female,Asthma,Inhalers,Carrie Mcdaniel,Care & Cure,2024-05-26,2024-06-03,8873.3
+77,Jessica Brown,70,Male,Flu,Rest and Fluids,Nathaniel Travis,Sunrise Medical Center,2024-10-30,2024-11-04,3082.8
+78,Paul Hall,37,Male,Asthma,Inhalers,Alexandria Jones,Care & Cure,2025-02-14,2025-02-22,4858.33
+79,Elizabeth Ewing,76,Male,Diabetes,Insulin Therapy,Juan Jones,City Hospital,2025-04-15,2025-04-20,1790.17
+80,Adam Moore,57,Female,Depression,Therapy,Alexandria Jones,Sunrise Medical Center,2024-08-11,2024-08-12,8887.72
+81,Patricia Snyder,60,Female,Asthma,Inhalers,Dakota Huff,Green Valley Clinic,2024-07-15,2024-07-23,1489.88
+82,Donald Sanchez,27,Male,Diabetes,Insulin Therapy,John Barajas,Green Valley Clinic,2025-03-31,2025-04-08,6236.86
+83,Trevor Huff,37,Female,Depression,Therapy,Brett Hays,Hope Hospital,2024-08-13,2024-08-19,9353.74
+84,Brian Wu,56,Male,Allergy,Antihistamines,Adam Hernandez,Hope Hospital,2024-11-17,2024-11-21,6928.87
+85,Francisco Morris,44,Male,Diabetes,Insulin Therapy,Cody Robertson,Green Valley Clinic,2025-03-12,2025-03-15,5957.33
+86,Mr. Francisco Ferguson,74,Male,Depression,Therapy,Brett Hays,Green Valley Clinic,2024-06-22,2024-06-29,1544.48
+87,Summer Mendez,74,Male,COVID-19,Antivirals,Christina Rivera,Care & Cure,2025-03-28,2025-04-05,2410.16
+88,Meredith Harvey,83,Female,Fracture,Casting,Curtis Jennings,Care & Cure,2024-11-20,2024-11-28,9153.86
+89,Katherine Miller,61,Female,Arthritis,NSAIDs,Juan Jones,Hope Hospital,2025-01-05,2025-01-10,7441.57
+90,Anthony Pope,24,Male,Allergy,Antihistamines,Alexandria Jones,Green Valley Clinic,2024-12-17,2024-12-25,3979.35
+91,Sandra Thomas,65,Female,Allergy,Antihistamines,Suzanne Coleman,Green Valley Clinic,2024-06-22,2024-06-25,7684.27
+92,Antonio Bowman,2,Male,Asthma,Inhalers,Angela Rodriguez,Care & Cure,2024-09-12,2024-09-19,7669.91
+93,James Flores,25,Male,Diabetes,Insulin Therapy,David Morgan,Hope Hospital,2024-07-12,2024-07-15,7750.03
+94,Mary Miller,26,Female,Arthritis,NSAIDs,Michael Johnston,Green Valley Clinic,2025-02-05,2025-02-10,7595.21
+95,Joshua Dyer,31,Female,Hypertension,Beta Blockers,Angela Rodriguez,Green Valley Clinic,2025-02-19,2025-02-23,7172.67
+96,Lisa Rasmussen,28,Female,COVID-19,Antivirals,Christina Rivera,Sunrise Medical Center,2025-03-08,2025-03-16,5246.11
+97,Angela Johnson,12,Male,Depression,Therapy,Tina Chavez,Care & Cure,2024-11-16,2024-11-19,7917.02
+98,Sarah Sanchez,72,Female,Arthritis,NSAIDs,Juan Jones,Sunrise Medical Center,2025-04-13,2025-04-23,5842.8
+99,Jeremy Nelson,75,Female,Diabetes,Insulin Therapy,James Blair,City Hospital,2024-12-14,2024-12-22,6911.68
+100,Scott Evans,56,Male,Depression,Therapy,John Barajas,Care & Cure,2024-06-08,2024-06-13,8906.82
+101,Leah Parker,6,Male,Asthma,Inhalers,Adam Hernandez,Sunrise Medical Center,2025-02-23,2025-02-26,2715.36
+102,Yvonne Payne,82,Male,Allergy,Antihistamines,Ernest Johnson,City Hospital,2024-08-19,2024-08-26,1852.7
+103,Joshua Bailey,68,Female,Asthma,Inhalers,John Barajas,Sunrise Medical Center,2025-03-02,2025-03-05,1028.5
+104,Jessica Romero,54,Female,Allergy,Antihistamines,Angela Rodriguez,Sunrise Medical Center,2025-04-01,2025-04-06,1578.01
+105,Kylie Jones,81,Male,Allergy,Antihistamines,James Blair,Hope Hospital,2024-05-24,2024-05-25,2177.04
+106,Roy Woods,68,Female,Allergy,Antihistamines,Angela Rodriguez,Green Valley Clinic,2024-08-17,2024-08-20,9748.0
+107,Alyssa Oconnor,1,Female,Arthritis,NSAIDs,Adam Hernandez,City Hospital,2024-05-24,2024-05-31,1140.93
+108,Scott Taylor,73,Female,Allergy,Antihistamines,Nathaniel Travis,Care & Cure,2024-07-19,2024-07-25,1919.52
+109,Julia Morales,69,Male,Allergy,Antihistamines,Juan Jones,Green Valley Clinic,2024-10-22,2024-10-23,9352.83
+110,Carrie Thompson,45,Female,Arthritis,NSAIDs,Ernest Johnson,City Hospital,2024-06-17,2024-06-25,3956.45
+111,Christopher Taylor,90,Female,Hypertension,Beta Blockers,Alexandria Jones,Hope Hospital,2025-02-22,2025-02-26,6469.16
+112,Chelsea Jones,70,Female,Asthma,Inhalers,Curtis Jennings,Care & Cure,2024-06-18,2024-06-27,4140.4
+113,Madison Collins,34,Male,Asthma,Inhalers,Adam Hernandez,Green Valley Clinic,2024-08-17,2024-08-24,7948.43
+114,David Thompson,24,Female,Flu,Rest and Fluids,John Barajas,City Hospital,2024-09-12,2024-09-13,3695.42
+115,Jacob Conway,63,Female,Fracture,Casting,Michael Johnston,Green Valley Clinic,2025-05-02,2025-05-12,6652.4
+116,Brent Coleman,7,Male,Fracture,Casting,Juan Jones,Care & Cure,2024-07-11,2024-07-12,8190.89
+117,Ricky Baker,67,Male,Diabetes,Insulin Therapy,Cody Robertson,Sunrise Medical Center,2025-05-10,2025-05-13,2309.23
+118,Emily Morales,82,Female,Arthritis,NSAIDs,Michael Johnston,Green Valley Clinic,2025-03-10,2025-03-11,8563.65
+119,Brandon Bentley,64,Female,Fracture,Casting,Curtis Jennings,City Hospital,2024-06-17,2024-06-22,9746.83
+120,Gary Chavez,82,Female,COVID-19,Antivirals,Michael Johnston,Hope Hospital,2024-06-06,2024-06-14,1081.48
+121,Jason Adams,66,Male,Flu,Rest and Fluids,Brett Hays,Care & Cure,2024-06-14,2024-06-17,5680.33
+122,Eric Payne,68,Female,Fracture,Casting,Dakota Huff,City Hospital,2025-04-19,2025-04-26,8493.95
+123,Carla Smith,2,Female,Fracture,Casting,Christina Rivera,Sunrise Medical Center,2025-01-25,2025-01-31,3864.44
+124,Jason Rubio,49,Female,Allergy,Antihistamines,Christina Rivera,Green Valley Clinic,2024-06-25,2024-07-04,6108.85
+125,Bonnie Nelson,12,Male,COVID-19,Antivirals,Michael Johnston,Hope Hospital,2024-12-08,2024-12-17,6158.41
+126,James Nunez,59,Female,Arthritis,NSAIDs,Alexandria Jones,Care & Cure,2025-04-26,2025-05-01,1394.45
+127,Veronica Sullivan,25,Female,Flu,Rest and Fluids,Brett Hays,City Hospital,2024-05-29,2024-06-05,9121.05
+128,Darryl Roberts,40,Male,Depression,Therapy,Alexandria Jones,Hope Hospital,2024-10-31,2024-11-10,8256.68
+129,Michael Summers,6,Male,Migraine,Pain Relievers,Michael Johnston,Sunrise Medical Center,2024-08-21,2024-08-28,4777.13
+130,Renee Sherman,34,Male,COVID-19,Antivirals,Carrie Mcdaniel,City Hospital,2024-12-23,2024-12-26,1478.29
+131,Donna Vargas,16,Male,Flu,Rest and Fluids,Angela Rodriguez,Care & Cure,2024-06-07,2024-06-17,6709.26
+132,Cameron Johnson,42,Female,Asthma,Inhalers,Suzanne Coleman,Hope Hospital,2024-06-11,2024-06-14,8468.17
+133,Elizabeth Carroll,63,Female,Diabetes,Insulin Therapy,Curtis Jennings,Green Valley Clinic,2024-08-26,2024-08-29,9061.86
+134,Michelle Miller,88,Male,Hypertension,Beta Blockers,Alexandria Jones,Sunrise Medical Center,2024-05-21,2024-05-24,2593.74
+135,Raymond Young,37,Male,Allergy,Antihistamines,Curtis Jennings,Sunrise Medical Center,2024-10-02,2024-10-08,1509.43
+136,Robert Johns,7,Female,Allergy,Antihistamines,David Morgan,Care & Cure,2024-11-06,2024-11-07,2856.47
+137,Thomas West,4,Female,Migraine,Pain Relievers,Christina Rivera,Care & Cure,2025-01-29,2025-02-06,9608.92
+138,Tricia Rosario,50,Male,Asthma,Inhalers,Nathaniel Travis,Sunrise Medical Center,2025-02-22,2025-03-01,9560.76
+139,Jason Mueller,61,Male,Diabetes,Insulin Therapy,Tina Chavez,Sunrise Medical Center,2025-01-25,2025-01-28,1780.29
+140,Brian Woodard,85,Female,Fracture,Casting,Ernest Johnson,Green Valley Clinic,2024-06-16,2024-06-22,7127.6
+141,Janet Taylor,17,Male,Fracture,Casting,Deborah Day,Care & Cure,2025-03-27,2025-04-02,5111.57
+142,Chelsea Richardson,31,Male,Hypertension,Beta Blockers,Cody Robertson,City Hospital,2024-12-23,2024-12-28,2948.46
+143,Maria Kennedy,23,Female,Arthritis,NSAIDs,Carrie Mcdaniel,Hope Hospital,2024-11-09,2024-11-19,2251.15
+144,Sierra Villanueva,22,Male,Depression,Therapy,Carrie Mcdaniel,Green Valley Clinic,2024-06-23,2024-07-03,6846.93
+145,Crystal Chandler,39,Female,Fracture,Casting,David Morgan,Hope Hospital,2024-06-14,2024-06-23,2791.4
+146,Joshua Lucas DDS,17,Female,COVID-19,Antivirals,Brett Hays,City Hospital,2025-02-14,2025-02-18,8726.23
+147,Leah Park,30,Female,Asthma,Inhalers,Angela Rodriguez,Green Valley Clinic,2025-05-17,2025-05-27,2320.59
+148,Katherine Anderson,54,Male,Fracture,Casting,Alexandria Jones,Care & Cure,2025-03-12,2025-03-14,3588.47
+149,Monica Strong,62,Female,COVID-19,Antivirals,Michael Johnston,City Hospital,2025-03-26,2025-03-27,2498.57
+150,Heidi Wagner,43,Female,Allergy,Antihistamines,Curtis Jennings,Hope Hospital,2025-04-09,2025-04-17,8993.57
+151,Mary Miller,52,Female,Arthritis,NSAIDs,Juan Jones,Care & Cure,2025-05-19,2025-05-27,3718.66
+152,Mark Green,35,Male,Depression,Therapy,Suzanne Coleman,Care & Cure,2024-09-11,2024-09-19,8597.26
+153,Michelle Nelson,2,Male,Diabetes,Insulin Therapy,Juan Jones,Green Valley Clinic,2025-02-11,2025-02-13,6092.7
+154,Cameron Walker,13,Male,Depression,Therapy,Angela Rodriguez,Care & Cure,2025-03-20,2025-03-30,6971.19
+155,Jeffrey Ray,79,Female,Arthritis,NSAIDs,Alexandria Jones,City Hospital,2024-08-30,2024-09-04,8288.71
+156,Robert Williams,10,Male,Allergy,Antihistamines,Curtis Jennings,Sunrise Medical Center,2025-01-16,2025-01-24,9463.84
+157,Joseph Ward,69,Male,Allergy,Antihistamines,John Barajas,Sunrise Medical Center,2024-10-03,2024-10-05,7156.76
+158,Joshua Perry,76,Male,Depression,Therapy,Tina Chavez,Green Valley Clinic,2025-04-30,2025-05-04,7605.9
+159,Heather Grant,6,Female,Asthma,Inhalers,Brett Hays,Sunrise Medical Center,2025-01-08,2025-01-10,8223.43
+160,Jonathan Smith,54,Female,Diabetes,Insulin Therapy,Deborah Day,Green Valley Clinic,2025-03-04,2025-03-13,2896.58
+161,Randy King,70,Male,Migraine,Pain Relievers,Carrie Mcdaniel,Hope Hospital,2024-10-21,2024-10-25,5015.95
+162,Christine Arias,15,Male,Diabetes,Insulin Therapy,Tina Chavez,Hope Hospital,2024-05-24,2024-05-30,4641.1
+163,Karen Howell,80,Female,COVID-19,Antivirals,John Barajas,Care & Cure,2024-11-17,2024-11-27,8130.72
+164,Michael Barber,79,Female,Arthritis,NSAIDs,Stephanie Hale,City Hospital,2024-09-21,2024-09-24,2484.12
+165,Dennis Olson,43,Male,Flu,Rest and Fluids,David Morgan,Sunrise Medical Center,2024-05-20,2024-05-24,9993.2
+166,Sara Harris,2,Male,Flu,Rest and Fluids,Nathaniel Travis,City Hospital,2025-03-10,2025-03-17,6607.7
+167,Craig Jimenez,24,Female,Flu,Rest and Fluids,Tina Chavez,Green Valley Clinic,2024-09-19,2024-09-27,6619.49
+168,Ralph Liu,90,Female,Depression,Therapy,Ernest Johnson,Care & Cure,2025-02-23,2025-03-05,3770.3
+169,James Peters,49,Male,Arthritis,NSAIDs,James Blair,Care & Cure,2024-11-12,2024-11-22,1085.46
+170,Denise Griffin,75,Female,Migraine,Pain Relievers,Cody Robertson,Sunrise Medical Center,2024-05-26,2024-05-29,7444.22
+171,Janet Cooper,13,Female,Diabetes,Insulin Therapy,Juan Jones,Sunrise Medical Center,2025-02-03,2025-02-13,7404.73
+172,Trevor Nelson,37,Male,Migraine,Pain Relievers,Carrie Mcdaniel,City Hospital,2024-11-24,2024-11-27,8538.03
+173,Joseph Boyd,39,Female,Diabetes,Insulin Therapy,Nathaniel Travis,Green Valley Clinic,2025-05-08,2025-05-15,3528.39
+174,Amy Diaz,42,Male,Arthritis,NSAIDs,Tina Chavez,Hope Hospital,2024-12-14,2024-12-17,5046.28
+175,Ray Fernandez,24,Female,Allergy,Antihistamines,Brett Hays,Care & Cure,2024-05-19,2024-05-22,3270.2
+176,Christine Ramos,48,Male,Depression,Therapy,Brett Hays,City Hospital,2025-02-28,2025-03-02,9148.43
+177,Daniel Valdez,74,Female,Asthma,Inhalers,Stephanie Hale,Green Valley Clinic,2024-11-30,2024-12-07,3447.46
+178,Thomas Munoz,52,Female,Fracture,Casting,Ernest Johnson,Hope Hospital,2025-04-23,2025-04-28,7154.21
+179,Charles Rivera,78,Female,Depression,Therapy,James Blair,Green Valley Clinic,2024-09-18,2024-09-24,4469.37
+180,Michelle Solis,81,Female,Asthma,Inhalers,Brett Hays,Hope Hospital,2024-08-11,2024-08-12,1091.66
+181,Sharon Farley,14,Male,Diabetes,Insulin Therapy,Curtis Jennings,Sunrise Medical Center,2025-03-26,2025-04-01,4431.72
+182,Cheryl Richards,60,Male,Fracture,Casting,Juan Jones,City Hospital,2024-08-05,2024-08-11,5078.78
+183,Daniel Robinson,34,Female,COVID-19,Antivirals,Ernest Johnson,Hope Hospital,2025-04-20,2025-04-29,2272.7
+184,Dawn Rowe,87,Male,Arthritis,NSAIDs,Carrie Mcdaniel,Care & Cure,2024-08-12,2024-08-18,7928.51
+185,David Sloan,39,Female,Fracture,Casting,Tina Chavez,Care & Cure,2024-07-26,2024-08-02,7889.89
+186,Shelley Allen,54,Female,COVID-19,Antivirals,Deborah Day,Hope Hospital,2024-06-22,2024-06-28,7626.18
+187,Alicia Medina,59,Female,Asthma,Inhalers,Suzanne Coleman,Sunrise Medical Center,2024-07-25,2024-08-04,7349.48
+188,Linda Davis,59,Male,Arthritis,NSAIDs,Brett Hays,Green Valley Clinic,2025-02-06,2025-02-09,7561.55
+189,Tina Sullivan,39,Male,Arthritis,NSAIDs,Nathaniel Travis,Hope Hospital,2024-09-10,2024-09-14,3369.87
+190,Kelly Coleman,80,Female,Hypertension,Beta Blockers,Brett Hays,City Hospital,2024-07-03,2024-07-07,2166.47
+191,Joseph Williams,56,Male,Depression,Therapy,Curtis Jennings,Hope Hospital,2024-06-06,2024-06-15,9115.96
+192,Zachary Walsh,21,Female,Diabetes,Insulin Therapy,Deborah Day,City Hospital,2024-08-15,2024-08-19,8960.42
+193,Jennifer Miles,70,Female,COVID-19,Antivirals,Cody Robertson,Green Valley Clinic,2024-10-02,2024-10-04,2328.47
+194,Yolanda Miller,60,Male,COVID-19,Antivirals,John Barajas,Green Valley Clinic,2024-07-15,2024-07-20,4562.18
+195,Shawn Ramirez,46,Male,Asthma,Inhalers,Cody Robertson,Care & Cure,2025-03-01,2025-03-03,4974.22
+196,Paul Jones,10,Male,Depression,Therapy,Christina Rivera,Care & Cure,2024-09-25,2024-09-30,6705.14
+197,Stephen York,53,Female,Fracture,Casting,Dakota Huff,Green Valley Clinic,2025-02-08,2025-02-09,3614.59
+198,Norman Gonzalez DDS,9,Female,Migraine,Pain Relievers,Deborah Day,City Hospital,2025-01-28,2025-01-31,3297.14
+199,Elizabeth Berg,8,Male,Migraine,Pain Relievers,Christina Rivera,City Hospital,2025-04-08,2025-04-11,9808.0
+200,Anthony Bell,32,Female,Diabetes,Insulin Therapy,Michael Johnston,Hope Hospital,2024-11-18,2024-11-24,7890.38
+201,Amy Jones,57,Female,Hypertension,Beta Blockers,Ernest Johnson,Green Valley Clinic,2024-05-29,2024-06-01,8639.56
+202,Colleen Hickman,18,Female,COVID-19,Antivirals,Juan Jones,Care & Cure,2024-08-28,2024-08-29,9415.34
+203,Wanda Delacruz,19,Female,Asthma,Inhalers,Cody Robertson,Sunrise Medical Center,2025-02-03,2025-02-05,1812.33
+204,Belinda Waller,76,Male,COVID-19,Antivirals,Michael Johnston,Hope Hospital,2024-10-01,2024-10-11,7628.64
+205,Samantha Collier,65,Male,Arthritis,NSAIDs,Carrie Mcdaniel,City Hospital,2024-11-20,2024-11-24,7798.8
+206,Mr. Gordon Hill II,17,Female,Migraine,Pain Relievers,Cody Robertson,City Hospital,2025-03-28,2025-03-30,3957.81
+207,Justin Ramos,12,Female,Hypertension,Beta Blockers,James Blair,City Hospital,2024-08-05,2024-08-12,5841.88
+208,Kimberly Macdonald,31,Male,Diabetes,Insulin Therapy,David Morgan,Care & Cure,2024-08-11,2024-08-15,9278.89
+209,John Potts,5,Female,Arthritis,NSAIDs,Deborah Day,Hope Hospital,2024-12-31,2025-01-05,4189.79
+210,Willie Reyes,41,Female,Diabetes,Insulin Therapy,Brett Hays,City Hospital,2024-09-26,2024-09-28,9351.68
+211,Gina Hartman,50,Male,Flu,Rest and Fluids,Brett Hays,Sunrise Medical Center,2025-02-25,2025-03-01,8027.0
+212,Robert Johnston,62,Male,Diabetes,Insulin Therapy,Carrie Mcdaniel,Sunrise Medical Center,2024-08-21,2024-08-28,1007.34
+213,Briana Bautista,59,Male,Asthma,Inhalers,Carrie Mcdaniel,City Hospital,2025-04-04,2025-04-11,6988.86
+214,Kevin Page,53,Female,Arthritis,NSAIDs,Christina Rivera,Sunrise Medical Center,2025-05-16,2025-05-19,8112.2
+215,Joseph Hughes,87,Female,Diabetes,Insulin Therapy,Deborah Day,Sunrise Medical Center,2024-06-28,2024-06-29,9116.82
+216,Jocelyn Cortez,72,Male,Asthma,Inhalers,Stephanie Hale,Care & Cure,2024-11-21,2024-11-24,9015.15
+217,Derek Cook,1,Female,Asthma,Inhalers,Juan Jones,Sunrise Medical Center,2024-07-03,2024-07-04,2394.49
+218,Ross Williamson,22,Female,Depression,Therapy,Curtis Jennings,Sunrise Medical Center,2024-11-01,2024-11-04,3791.56
+219,Alexis Williams,51,Male,COVID-19,Antivirals,Adam Hernandez,Hope Hospital,2025-03-24,2025-03-27,7603.26
+220,Robert Walker,6,Male,Allergy,Antihistamines,Dakota Huff,Care & Cure,2025-01-20,2025-01-21,2162.4
+221,Joseph Young,62,Male,Fracture,Casting,Michael Johnston,Care & Cure,2025-02-02,2025-02-10,4085.71
+222,Jordan Ellis,49,Male,Depression,Therapy,Dakota Huff,City Hospital,2024-11-21,2024-11-23,1118.27
+223,Mike Walker,47,Female,Flu,Rest and Fluids,Stephanie Hale,Green Valley Clinic,2024-09-18,2024-09-28,9135.16
+224,Taylor Gibson,75,Male,Allergy,Antihistamines,David Morgan,City Hospital,2025-04-21,2025-05-01,5324.44
+225,Adam Maldonado,86,Female,Depression,Therapy,Tina Chavez,Green Valley Clinic,2024-06-29,2024-07-06,5918.79
+226,Martin Ramirez,50,Female,Fracture,Casting,Curtis Jennings,Care & Cure,2024-09-06,2024-09-13,8900.27
+227,Adam Ingram,52,Male,Migraine,Pain Relievers,Dakota Huff,Sunrise Medical Center,2024-11-16,2024-11-24,7444.78
+228,Mr. Scott Shelton,51,Male,Depression,Therapy,Adam Hernandez,Green Valley Clinic,2025-01-26,2025-02-02,8328.83
+229,Miguel Flores,25,Male,Arthritis,NSAIDs,Carrie Mcdaniel,Hope Hospital,2024-09-19,2024-09-25,7115.67
+230,Pamela Fox,5,Female,Hypertension,Beta Blockers,David Morgan,Hope Hospital,2024-11-08,2024-11-12,2007.55
+231,Benjamin Osborne,5,Male,Hypertension,Beta Blockers,Dakota Huff,Sunrise Medical Center,2024-09-30,2024-10-06,4576.04
+232,Wendy Phillips,33,Male,Arthritis,NSAIDs,Curtis Jennings,Sunrise Medical Center,2024-11-11,2024-11-18,2379.18
+233,Joshua Harper,79,Female,Fracture,Casting,Curtis Jennings,Care & Cure,2024-06-24,2024-06-30,7349.06
+234,Troy Stanton,88,Male,Allergy,Antihistamines,Brett Hays,City Hospital,2025-04-10,2025-04-12,9050.03
+235,Beth Leon,64,Male,Migraine,Pain Relievers,James Blair,Sunrise Medical Center,2025-03-30,2025-04-02,2420.57
+236,Chris Martin,67,Female,Depression,Therapy,Michael Johnston,Care & Cure,2024-05-21,2024-05-29,3246.17
+237,Sheila Smith,16,Female,Depression,Therapy,Christina Rivera,Hope Hospital,2024-09-17,2024-09-26,6949.04
+238,Joel Hill,49,Male,Arthritis,NSAIDs,Deborah Day,Green Valley Clinic,2024-08-28,2024-09-03,7042.28
+239,David Roberts,39,Male,Arthritis,NSAIDs,David Morgan,Sunrise Medical Center,2025-03-31,2025-04-08,2029.52
+240,Christopher Martinez,50,Female,Asthma,Inhalers,John Barajas,Sunrise Medical Center,2025-05-11,2025-05-15,7280.56
+241,Kelly Parker,26,Male,Fracture,Casting,Adam Hernandez,Sunrise Medical Center,2025-05-01,2025-05-02,8091.63
+242,Erik Woods,14,Female,Fracture,Casting,Dakota Huff,Hope Hospital,2024-11-13,2024-11-20,8443.36
+243,Mitchell Tanner,29,Male,Hypertension,Beta Blockers,Deborah Day,Green Valley Clinic,2025-04-25,2025-05-01,3577.17
+244,Todd Brown,14,Male,Migraine,Pain Relievers,John Barajas,Hope Hospital,2024-10-28,2024-10-29,3079.87
+245,Ronald Garcia,84,Female,Asthma,Inhalers,Angela Rodriguez,Care & Cure,2024-11-27,2024-12-03,1660.03
+246,Sydney Montoya,19,Male,Asthma,Inhalers,Nathaniel Travis,Sunrise Medical Center,2024-10-18,2024-10-26,2402.08
+247,Lauren Atkinson,71,Male,COVID-19,Antivirals,John Barajas,Green Valley Clinic,2025-02-10,2025-02-12,6846.74
+248,Anthony Garcia,47,Female,Migraine,Pain Relievers,Stephanie Hale,Sunrise Medical Center,2024-12-12,2024-12-16,5292.62
+249,James Boone,65,Male,Diabetes,Insulin Therapy,David Morgan,City Hospital,2024-06-30,2024-07-10,7296.36
+250,Matthew Lane,2,Female,COVID-19,Antivirals,Deborah Day,City Hospital,2024-07-31,2024-08-03,4789.57
+251,Adrian Griffin,86,Female,Flu,Rest and Fluids,Tina Chavez,Sunrise Medical Center,2024-12-02,2024-12-11,8283.61
+252,Frank Stevens,27,Male,Arthritis,NSAIDs,Carrie Mcdaniel,Care & Cure,2024-12-26,2025-01-04,7250.39
+253,Jo Brown,51,Male,Asthma,Inhalers,Adam Hernandez,Hope Hospital,2024-10-31,2024-11-03,9840.92
+254,Brett Dean,41,Male,Fracture,Casting,Christina Rivera,Green Valley Clinic,2025-05-11,2025-05-13,6134.99
+255,Nicholas Monroe,78,Male,Flu,Rest and Fluids,Alexandria Jones,Care & Cure,2024-07-29,2024-07-30,2960.21
+256,Leslie Blackwell,29,Male,Fracture,Casting,Deborah Day,Care & Cure,2024-06-12,2024-06-13,1588.57
+257,Sandra Martinez,10,Male,Fracture,Casting,Carrie Mcdaniel,Green Valley Clinic,2025-03-17,2025-03-18,2355.61
+258,John James,49,Female,Depression,Therapy,Nathaniel Travis,Care & Cure,2024-07-19,2024-07-23,1074.61
+259,John Powell,47,Male,Hypertension,Beta Blockers,Dakota Huff,Sunrise Medical Center,2024-12-06,2024-12-12,8512.34
+260,Curtis Baldwin,34,Female,Migraine,Pain Relievers,Stephanie Hale,Green Valley Clinic,2024-08-16,2024-08-25,9895.98
+261,Alexandra Vincent,69,Male,Migraine,Pain Relievers,Ernest Johnson,Care & Cure,2025-02-28,2025-03-08,2528.91
+262,Joshua Patel,21,Female,Flu,Rest and Fluids,Dakota Huff,Care & Cure,2025-02-01,2025-02-10,4613.29
+263,Sara Mitchell,68,Female,Hypertension,Beta Blockers,Christina Rivera,City Hospital,2025-01-31,2025-02-01,5327.71
+264,Jacqueline Chavez,85,Male,Flu,Rest and Fluids,Suzanne Coleman,Green Valley Clinic,2025-05-11,2025-05-19,8920.5
+265,Michelle Hayes,82,Male,Fracture,Casting,Deborah Day,Green Valley Clinic,2024-11-17,2024-11-18,9202.77
+266,Cole Ramirez,67,Female,Asthma,Inhalers,Angela Rodriguez,Hope Hospital,2025-03-01,2025-03-11,6054.16
+267,David Keller,57,Male,Hypertension,Beta Blockers,Juan Jones,Green Valley Clinic,2024-05-28,2024-05-29,9191.73
+268,Chris Smith,23,Female,Depression,Therapy,David Morgan,Hope Hospital,2024-07-29,2024-08-02,2216.13
+269,Melissa Love,67,Female,Fracture,Casting,Juan Jones,Sunrise Medical Center,2024-07-03,2024-07-12,1492.51
+270,Daniel Evans,37,Female,Fracture,Casting,Alexandria Jones,Green Valley Clinic,2024-11-10,2024-11-12,7876.48
+271,Thomas Davis DVM,83,Female,Hypertension,Beta Blockers,Tina Chavez,Green Valley Clinic,2024-06-28,2024-07-05,8905.19
+272,Austin Chase,52,Female,Hypertension,Beta Blockers,Ernest Johnson,Sunrise Medical Center,2025-01-15,2025-01-16,2280.45
+273,John Bryant,90,Male,Migraine,Pain Relievers,Ernest Johnson,City Hospital,2025-04-19,2025-04-24,7617.19
+274,Cheryl Chase,37,Female,Arthritis,NSAIDs,Tina Chavez,Care & Cure,2025-04-28,2025-04-29,9320.03
+275,Andrew Alexander,63,Female,COVID-19,Antivirals,Brett Hays,Care & Cure,2025-03-07,2025-03-10,7219.04
+276,Robert Jones,5,Male,Arthritis,NSAIDs,Ernest Johnson,City Hospital,2025-03-15,2025-03-24,7460.07
+277,Carolyn Blair,55,Female,Asthma,Inhalers,David Morgan,Hope Hospital,2025-04-28,2025-05-08,5863.22
+278,Kevin Gentry,84,Male,Arthritis,NSAIDs,Stephanie Hale,Green Valley Clinic,2024-07-28,2024-08-01,3406.5
+279,Larry King,74,Female,Hypertension,Beta Blockers,Carrie Mcdaniel,Green Valley Clinic,2025-05-05,2025-05-07,5156.56
+280,Jason Taylor,33,Male,Depression,Therapy,Michael Johnston,Green Valley Clinic,2025-02-12,2025-02-17,4878.82
+281,Suzanne Baker,42,Male,Flu,Rest and Fluids,Ernest Johnson,Sunrise Medical Center,2025-03-30,2025-04-06,5580.76
+282,Kevin Carter,62,Male,Diabetes,Insulin Therapy,James Blair,Sunrise Medical Center,2024-10-15,2024-10-22,4761.54
+283,Bethany Potts,70,Female,Flu,Rest and Fluids,Cody Robertson,Green Valley Clinic,2025-05-11,2025-05-19,6401.03
+284,Katherine Young,26,Female,Fracture,Casting,James Blair,Care & Cure,2024-07-13,2024-07-14,2991.62
+285,Jennifer Chapman,37,Female,Flu,Rest and Fluids,Juan Jones,Sunrise Medical Center,2025-02-10,2025-02-14,7141.93
+286,Michael Torres,84,Female,Arthritis,NSAIDs,David Morgan,Sunrise Medical Center,2025-04-19,2025-04-22,6422.71
+287,Dylan Stephens,65,Female,Depression,Therapy,Dakota Huff,City Hospital,2024-09-17,2024-09-20,7252.62
+288,Randy Craig,56,Male,Allergy,Antihistamines,Angela Rodriguez,Sunrise Medical Center,2024-12-11,2024-12-15,1643.32
+289,Ernest Smith,76,Male,Hypertension,Beta Blockers,Juan Jones,City Hospital,2024-05-26,2024-06-01,2666.56
+290,Sharon Gray,78,Female,COVID-19,Antivirals,Suzanne Coleman,Hope Hospital,2025-03-21,2025-03-23,5253.27
+291,Casey Davis,79,Male,Asthma,Inhalers,Brett Hays,Hope Hospital,2024-05-27,2024-06-01,4574.06
+292,Mark Petty,51,Female,COVID-19,Antivirals,Ernest Johnson,Green Valley Clinic,2025-01-18,2025-01-22,8862.55
+293,Sean Chambers,37,Female,Flu,Rest and Fluids,Ernest Johnson,Hope Hospital,2024-12-17,2024-12-22,3556.6
+294,Tracy Baker,67,Male,Asthma,Inhalers,Michael Johnston,Hope Hospital,2025-01-06,2025-01-12,7427.27
+295,Victoria Holt,9,Female,Asthma,Inhalers,Curtis Jennings,City Hospital,2025-03-12,2025-03-20,6078.2
+296,Michael Barnett,63,Female,Fracture,Casting,Ernest Johnson,City Hospital,2025-02-05,2025-02-10,7512.14
+297,Martin Mccoy,49,Female,Allergy,Antihistamines,Brett Hays,Hope Hospital,2024-06-07,2024-06-11,9339.84
+298,Sean Oneal,85,Male,Flu,Rest and Fluids,Deborah Day,Hope Hospital,2025-02-07,2025-02-08,9372.21
+299,Elizabeth Peterson,11,Male,COVID-19,Antivirals,Christina Rivera,City Hospital,2024-10-02,2024-10-04,3139.61
+300,Michael Wilson,90,Female,Allergy,Antihistamines,Juan Jones,Hope Hospital,2025-02-25,2025-02-28,5930.05
+301,Heather Singh,4,Female,COVID-19,Antivirals,Carrie Mcdaniel,Care & Cure,2024-07-04,2024-07-12,7944.17
+302,Cindy Rice,19,Male,Allergy,Antihistamines,Stephanie Hale,Hope Hospital,2024-12-07,2024-12-11,6250.22
+303,Mr. Shannon Mitchell,13,Male,COVID-19,Antivirals,Deborah Day,Care & Cure,2024-10-08,2024-10-14,2282.75
+304,Nicholas Russell,39,Female,Asthma,Inhalers,Stephanie Hale,Care & Cure,2024-06-17,2024-06-20,2758.76
+305,Sandy Griffith,75,Female,Fracture,Casting,Carrie Mcdaniel,Sunrise Medical Center,2025-03-08,2025-03-11,9370.73
+306,Briana Pena,11,Female,Diabetes,Insulin Therapy,Curtis Jennings,City Hospital,2025-03-02,2025-03-09,3657.8
+307,Margaret Green,34,Female,Diabetes,Insulin Therapy,James Blair,City Hospital,2025-03-20,2025-03-28,7898.66
+308,Mackenzie Flores,48,Female,Arthritis,NSAIDs,Alexandria Jones,Hope Hospital,2024-12-15,2024-12-21,2818.17
+309,Scott Garner,23,Male,Allergy,Antihistamines,Nathaniel Travis,Green Valley Clinic,2024-09-24,2024-10-02,1442.31
+310,Timothy Johnston,43,Female,Flu,Rest and Fluids,Nathaniel Travis,Care & Cure,2024-07-02,2024-07-11,6154.92
+311,Vanessa Livingston,25,Male,Hypertension,Beta Blockers,Juan Jones,Care & Cure,2024-10-24,2024-10-29,9186.76
+312,Alyssa Gentry,16,Male,Flu,Rest and Fluids,David Morgan,Green Valley Clinic,2024-12-16,2024-12-26,8264.8
+313,Elizabeth Bennett,16,Female,Asthma,Inhalers,Cody Robertson,Care & Cure,2024-06-28,2024-07-07,5833.61
+314,Arthur Barton,12,Female,Flu,Rest and Fluids,Curtis Jennings,Green Valley Clinic,2024-12-09,2024-12-14,6488.21
+315,Mark Vance,80,Female,Hypertension,Beta Blockers,David Morgan,City Hospital,2024-12-16,2024-12-26,4188.62
+316,Sarah Mueller,85,Female,Arthritis,NSAIDs,Carrie Mcdaniel,Green Valley Clinic,2025-04-03,2025-04-05,1398.29
+317,Adam Torres,12,Male,Fracture,Casting,Angela Rodriguez,Sunrise Medical Center,2024-07-21,2024-07-27,6067.83
+318,Matthew Perez,3,Female,Asthma,Inhalers,Stephanie Hale,Hope Hospital,2025-01-07,2025-01-16,6445.25
+319,Mary Butler,31,Female,Asthma,Inhalers,Angela Rodriguez,Hope Hospital,2024-12-16,2024-12-17,1447.43
+320,Theresa Christensen,88,Female,Flu,Rest and Fluids,Stephanie Hale,Hope Hospital,2024-10-17,2024-10-24,3201.01
+321,Pamela Greer,67,Female,Migraine,Pain Relievers,Curtis Jennings,City Hospital,2024-08-14,2024-08-19,5708.18
+322,Nicholas Hart,37,Female,Allergy,Antihistamines,Angela Rodriguez,Sunrise Medical Center,2024-09-02,2024-09-10,1417.78
+323,David Barnes,8,Male,Fracture,Casting,Curtis Jennings,Sunrise Medical Center,2024-06-04,2024-06-05,2390.75
+324,Martin Maddox,56,Female,Fracture,Casting,Carrie Mcdaniel,City Hospital,2024-10-11,2024-10-18,2698.31
+325,Sean Alexander,51,Female,Arthritis,NSAIDs,Dakota Huff,Hope Hospital,2025-02-03,2025-02-04,9637.56
+326,Nicholas Preston,29,Male,Depression,Therapy,Stephanie Hale,Sunrise Medical Center,2024-07-22,2024-07-26,7809.35
+327,Carlos Thomas,40,Female,Depression,Therapy,Suzanne Coleman,City Hospital,2025-03-04,2025-03-06,8142.92
+328,Vickie Thompson,48,Female,Diabetes,Insulin Therapy,Tina Chavez,Hope Hospital,2024-09-20,2024-09-24,6205.07
+329,Rebecca Wells,20,Male,Diabetes,Insulin Therapy,Brett Hays,Care & Cure,2024-09-15,2024-09-25,2217.34
+330,Jordan Gardner,56,Male,Migraine,Pain Relievers,Christina Rivera,Hope Hospital,2025-01-18,2025-01-27,1652.63
+331,Martin Mcgee,76,Female,Arthritis,NSAIDs,David Morgan,Hope Hospital,2025-05-12,2025-05-20,5024.89
+332,Mark Martin,10,Female,Depression,Therapy,Brett Hays,City Hospital,2024-09-23,2024-09-29,2300.41
+333,Misty Watson,25,Female,Arthritis,NSAIDs,Nathaniel Travis,Sunrise Medical Center,2025-03-06,2025-03-13,2198.12
+334,Terry Weaver,55,Female,Arthritis,NSAIDs,Brett Hays,Sunrise Medical Center,2024-06-28,2024-07-05,5461.72
+335,Amanda Larson,47,Male,Fracture,Casting,John Barajas,Care & Cure,2025-05-10,2025-05-11,3196.56
+336,Anna Holland,70,Female,Asthma,Inhalers,James Blair,City Hospital,2024-08-21,2024-08-31,2537.93
+337,Luis Dickerson,32,Male,Arthritis,NSAIDs,Carrie Mcdaniel,Hope Hospital,2024-07-08,2024-07-18,6466.43
+338,Jesus Hays,81,Male,COVID-19,Antivirals,Juan Jones,City Hospital,2025-01-14,2025-01-15,4196.36
+339,Mary Carr,73,Female,COVID-19,Antivirals,Curtis Jennings,Hope Hospital,2024-12-20,2024-12-25,6237.64
+340,Dr. Jocelyn Gonzalez,88,Female,Arthritis,NSAIDs,Adam Hernandez,Hope Hospital,2024-08-08,2024-08-16,4412.56
+341,David Bryan,8,Female,Fracture,Casting,Carrie Mcdaniel,Care & Cure,2025-03-26,2025-03-30,9951.93
+342,John Reid,22,Female,Fracture,Casting,Michael Johnston,Hope Hospital,2024-10-04,2024-10-09,3283.18
+343,Thomas Douglas,36,Male,Migraine,Pain Relievers,Curtis Jennings,City Hospital,2024-06-29,2024-07-01,8373.33
+344,Alan Washington,22,Female,Asthma,Inhalers,Alexandria Jones,Hope Hospital,2025-01-04,2025-01-08,2909.43
+345,Rhonda Rojas,27,Male,Arthritis,NSAIDs,Stephanie Hale,Care & Cure,2024-10-11,2024-10-19,5816.6
+346,Latoya Serrano,56,Female,Flu,Rest and Fluids,John Barajas,Green Valley Clinic,2025-05-09,2025-05-19,2076.75
+347,Mr. Christopher Riggs Jr.,32,Male,COVID-19,Antivirals,Tina Chavez,Care & Cure,2025-04-01,2025-04-05,7457.83
+348,Christian Ramos,69,Male,Migraine,Pain Relievers,Adam Hernandez,Sunrise Medical Center,2024-12-27,2024-12-28,7393.53
+349,Ebony Davenport,68,Female,COVID-19,Antivirals,Curtis Jennings,Green Valley Clinic,2025-02-08,2025-02-18,7868.45
+350,Todd Mclaughlin,49,Male,Migraine,Pain Relievers,Suzanne Coleman,City Hospital,2024-05-23,2024-05-30,9037.87
+351,Mary Todd,86,Female,Asthma,Inhalers,Adam Hernandez,Care & Cure,2024-09-11,2024-09-17,9595.45
+352,Kristina Sullivan,71,Female,Hypertension,Beta Blockers,Alexandria Jones,Green Valley Clinic,2025-04-01,2025-04-04,3006.84
+353,Daniel Romero,78,Male,Fracture,Casting,Stephanie Hale,Sunrise Medical Center,2025-01-05,2025-01-07,6292.12
+354,Sabrina Thomas,81,Male,Diabetes,Insulin Therapy,Adam Hernandez,City Hospital,2025-01-28,2025-02-05,6850.48
+355,Angela Walker,22,Male,Fracture,Casting,Brett Hays,Care & Cure,2025-02-18,2025-02-22,3033.45
+356,Ryan Cervantes,65,Male,Arthritis,NSAIDs,Cody Robertson,Care & Cure,2025-02-11,2025-02-18,1735.38
+357,Keith Johnson,79,Female,Flu,Rest and Fluids,Brett Hays,Hope Hospital,2024-08-13,2024-08-21,5547.57
+358,John Smith,2,Male,Allergy,Antihistamines,Stephanie Hale,Green Valley Clinic,2024-12-14,2024-12-18,9945.75
+359,Tara Hill,65,Male,Arthritis,NSAIDs,Dakota Huff,Sunrise Medical Center,2024-10-05,2024-10-14,7298.06
+360,Jennifer Ewing,6,Female,Flu,Rest and Fluids,Adam Hernandez,Hope Hospital,2025-04-16,2025-04-26,3035.1
+361,Robert Hall,71,Male,Arthritis,NSAIDs,Tina Chavez,Hope Hospital,2025-01-12,2025-01-22,1590.53
+362,Jonathan Williams,40,Male,Migraine,Pain Relievers,James Blair,City Hospital,2025-03-03,2025-03-11,3478.51
+363,Bobby Mcdonald,55,Male,Diabetes,Insulin Therapy,Brett Hays,Care & Cure,2025-03-29,2025-04-07,8091.34
+364,John Schultz,42,Female,Allergy,Antihistamines,Brett Hays,Hope Hospital,2024-09-18,2024-09-23,8767.93
+365,Bryan Mcmahon,35,Male,Migraine,Pain Relievers,Christina Rivera,Green Valley Clinic,2024-06-29,2024-06-30,5096.99
+366,Robert Davies,46,Male,Asthma,Inhalers,Angela Rodriguez,Sunrise Medical Center,2024-10-10,2024-10-19,7084.75
+367,Shannon Ramirez,51,Male,Depression,Therapy,Suzanne Coleman,Hope Hospital,2024-10-10,2024-10-20,2408.29
+368,Christine Fowler,51,Male,Depression,Therapy,Juan Jones,Care & Cure,2024-12-12,2024-12-18,7320.54
+369,Thomas Rodriguez,46,Male,Flu,Rest and Fluids,Juan Jones,Care & Cure,2025-01-29,2025-01-31,9476.48
+370,Matthew Murphy,75,Female,Asthma,Inhalers,Tina Chavez,Care & Cure,2025-05-04,2025-05-05,5168.81
+371,Kyle Anderson,33,Female,Migraine,Pain Relievers,Carrie Mcdaniel,Care & Cure,2024-10-03,2024-10-12,2630.33
+372,Lisa Stewart,56,Female,Hypertension,Beta Blockers,Deborah Day,City Hospital,2025-03-06,2025-03-10,6503.38
+373,Mitchell Navarro,45,Male,Asthma,Inhalers,Carrie Mcdaniel,Hope Hospital,2024-10-27,2024-10-29,8164.57
+374,Gina Johnson,87,Male,Flu,Rest and Fluids,Cody Robertson,Green Valley Clinic,2024-10-09,2024-10-12,2491.5
+375,Cody Todd,49,Male,Hypertension,Beta Blockers,Christina Rivera,Sunrise Medical Center,2024-07-27,2024-07-28,3931.94
+376,Raymond Wallace,32,Male,Allergy,Antihistamines,Christina Rivera,Sunrise Medical Center,2024-09-12,2024-09-20,9843.43
+377,Gregory Mccarthy,68,Female,COVID-19,Antivirals,Suzanne Coleman,Care & Cure,2024-07-24,2024-07-31,7013.11
+378,Douglas Hayden,83,Female,Depression,Therapy,Christina Rivera,City Hospital,2024-08-16,2024-08-18,4158.59
+379,Brandon Stewart,76,Male,Asthma,Inhalers,David Morgan,Hope Hospital,2024-07-19,2024-07-25,2340.61
+380,Kristopher Harrington,9,Male,Diabetes,Insulin Therapy,Nathaniel Travis,Green Valley Clinic,2025-02-16,2025-02-18,5100.09
+381,Mary Johnson,20,Female,Asthma,Inhalers,Christina Rivera,Sunrise Medical Center,2025-03-07,2025-03-16,3884.89
+382,Hailey Stanley,83,Male,COVID-19,Antivirals,Juan Jones,Care & Cure,2024-11-22,2024-11-28,6795.43
+383,Amanda Goodman,35,Male,Fracture,Casting,Christina Rivera,Green Valley Clinic,2024-08-07,2024-08-13,1478.75
+384,Gary Smith,79,Male,Depression,Therapy,Deborah Day,Sunrise Medical Center,2024-10-12,2024-10-18,4723.96
+385,Leah Ross,31,Male,Hypertension,Beta Blockers,Adam Hernandez,Green Valley Clinic,2024-08-01,2024-08-08,8848.22
+386,Samantha Black,11,Female,Hypertension,Beta Blockers,Carrie Mcdaniel,Hope Hospital,2024-11-02,2024-11-09,5889.52
+387,Cynthia Blair,20,Female,Asthma,Inhalers,John Barajas,Sunrise Medical Center,2024-07-20,2024-07-23,3634.89
+388,Heather Owens,6,Female,Flu,Rest and Fluids,Ernest Johnson,Care & Cure,2024-05-30,2024-06-04,5857.71
+389,Timothy Reed,81,Female,Hypertension,Beta Blockers,Carrie Mcdaniel,Green Valley Clinic,2025-02-13,2025-02-17,4700.8
+390,Felicia Rivera,58,Male,Diabetes,Insulin Therapy,Michael Johnston,Hope Hospital,2024-09-30,2024-10-09,7512.49
+391,Rhonda Bird,75,Female,COVID-19,Antivirals,Christina Rivera,Hope Hospital,2024-10-01,2024-10-08,7207.85
+392,Anthony Benjamin,36,Male,Hypertension,Beta Blockers,Carrie Mcdaniel,City Hospital,2024-11-13,2024-11-17,8634.95
+393,Brian Nguyen,86,Female,Fracture,Casting,Michael Johnston,Care & Cure,2024-09-21,2024-09-22,8829.17
+394,William Cruz,79,Male,Arthritis,NSAIDs,Cody Robertson,Care & Cure,2024-06-25,2024-07-02,8810.94
+395,Sara Fuller,15,Male,Arthritis,NSAIDs,Nathaniel Travis,City Hospital,2025-02-26,2025-02-27,2075.35
+396,David Ford,5,Female,Migraine,Pain Relievers,Nathaniel Travis,City Hospital,2024-11-08,2024-11-15,3857.6
+397,Henry Zuniga,73,Female,Migraine,Pain Relievers,Deborah Day,Green Valley Clinic,2024-06-22,2024-06-29,2987.03
+398,Morgan Chapman,29,Male,Allergy,Antihistamines,Curtis Jennings,City Hospital,2024-07-05,2024-07-09,8218.65
+399,Christopher Foster,81,Female,COVID-19,Antivirals,Juan Jones,Green Valley Clinic,2024-08-28,2024-09-07,8774.95
+400,Mark Armstrong,27,Female,Diabetes,Insulin Therapy,Christina Rivera,Sunrise Medical Center,2025-02-14,2025-02-24,7530.83
+401,Kimberly Johnson,38,Male,Hypertension,Beta Blockers,Tina Chavez,Sunrise Medical Center,2025-05-10,2025-05-18,8546.18
+402,Jacob Sawyer,57,Female,Hypertension,Beta Blockers,Tina Chavez,Sunrise Medical Center,2025-02-20,2025-02-25,5057.71
+403,Mark Peterson,4,Female,Hypertension,Beta Blockers,Tina Chavez,City Hospital,2025-05-11,2025-05-13,6496.37
+404,Danielle Rivera,36,Female,Hypertension,Beta Blockers,Brett Hays,Green Valley Clinic,2024-10-24,2024-10-29,8416.44
+405,Daniel Campos,23,Female,COVID-19,Antivirals,Suzanne Coleman,Green Valley Clinic,2025-02-10,2025-02-20,9907.91
+406,Lindsey Miller,72,Male,Depression,Therapy,Dakota Huff,Care & Cure,2025-05-01,2025-05-04,5930.06
+407,Suzanne Scott,72,Female,Migraine,Pain Relievers,James Blair,Care & Cure,2024-05-22,2024-05-27,7232.61
+408,Haley Brown,80,Female,COVID-19,Antivirals,Deborah Day,Sunrise Medical Center,2024-10-10,2024-10-20,4104.94
+409,Tamara Hurst,14,Female,COVID-19,Antivirals,James Blair,Care & Cure,2024-05-23,2024-05-26,4609.79
+410,David Hoffman,35,Male,Depression,Therapy,Alexandria Jones,Sunrise Medical Center,2024-10-06,2024-10-15,1434.76
+411,Ashley Hughes,29,Male,Allergy,Antihistamines,John Barajas,City Hospital,2024-06-06,2024-06-11,8918.87
+412,Robert Russell,10,Male,Depression,Therapy,Tina Chavez,Green Valley Clinic,2025-05-15,2025-05-21,2071.14
+413,Robert Grant,3,Female,Diabetes,Insulin Therapy,Nathaniel Travis,City Hospital,2025-04-17,2025-04-27,5289.67
+414,Matthew Gibson,55,Male,Arthritis,NSAIDs,Ernest Johnson,Sunrise Medical Center,2024-05-28,2024-05-29,6788.51
+415,Brandy Young,90,Male,Asthma,Inhalers,John Barajas,Sunrise Medical Center,2024-07-22,2024-07-31,2500.79
+416,Caroline Stewart,34,Male,COVID-19,Antivirals,Deborah Day,City Hospital,2025-01-23,2025-01-29,2468.49
+417,Melissa Hughes,28,Male,Allergy,Antihistamines,Angela Rodriguez,Hope Hospital,2024-10-01,2024-10-10,6517.22
+418,Evan Woods,77,Male,Depression,Therapy,Deborah Day,City Hospital,2024-12-31,2025-01-09,2704.95
+419,Jamie Hernandez,26,Female,Asthma,Inhalers,Alexandria Jones,Green Valley Clinic,2024-06-22,2024-06-27,6628.0
+420,Michelle Gomez,73,Male,Fracture,Casting,James Blair,Care & Cure,2025-03-02,2025-03-07,1303.38
+421,Kayla Maxwell,15,Female,COVID-19,Antivirals,Angela Rodriguez,Green Valley Clinic,2024-06-05,2024-06-07,7568.41
+422,Cheyenne Wood,9,Female,Depression,Therapy,Deborah Day,Hope Hospital,2025-04-29,2025-05-07,3309.81
+423,Anna Kelly,2,Female,Depression,Therapy,Michael Johnston,Sunrise Medical Center,2025-03-03,2025-03-11,4939.22
+424,Michael Young,75,Male,Depression,Therapy,Michael Johnston,Sunrise Medical Center,2024-09-03,2024-09-04,8711.24
+425,Benjamin Costa,20,Female,Hypertension,Beta Blockers,David Morgan,City Hospital,2024-11-30,2024-12-05,3943.9
+426,James Friedman,86,Male,Arthritis,NSAIDs,Christina Rivera,Green Valley Clinic,2024-11-27,2024-11-30,3352.81
+427,David Morgan,61,Female,Allergy,Antihistamines,Angela Rodriguez,City Hospital,2025-05-08,2025-05-14,4694.21
+428,Brian Stewart,76,Male,Hypertension,Beta Blockers,Adam Hernandez,Green Valley Clinic,2025-03-06,2025-03-09,2086.93
+429,Bradley Williams,78,Female,Hypertension,Beta Blockers,Cody Robertson,City Hospital,2024-06-05,2024-06-06,5340.47
+430,Kelly Welch,31,Male,Flu,Rest and Fluids,Tina Chavez,Care & Cure,2025-01-25,2025-02-04,3364.33
+431,Sydney Austin,14,Female,Asthma,Inhalers,Christina Rivera,City Hospital,2024-12-09,2024-12-19,7743.93
+432,Marcus Meyer,65,Female,Flu,Rest and Fluids,Juan Jones,Hope Hospital,2025-05-13,2025-05-21,1748.03
+433,Robert Grant,4,Male,Fracture,Casting,Deborah Day,Hope Hospital,2025-02-22,2025-02-27,3645.54
+434,Virginia Johnson,8,Female,Diabetes,Insulin Therapy,Cody Robertson,City Hospital,2025-03-03,2025-03-13,6014.98
+435,Alicia Monroe,88,Male,Flu,Rest and Fluids,Alexandria Jones,City Hospital,2024-12-22,2024-12-29,6044.6
+436,Dillon Martinez,15,Female,COVID-19,Antivirals,Michael Johnston,City Hospital,2024-08-22,2024-09-01,5417.02
+437,Joseph Bishop,48,Male,Hypertension,Beta Blockers,David Morgan,Care & Cure,2025-01-05,2025-01-15,8447.55
+438,Trevor Russo,8,Female,Depression,Therapy,John Barajas,City Hospital,2024-08-11,2024-08-20,7640.27
+439,Lisa Gomez,22,Female,Asthma,Inhalers,Dakota Huff,Care & Cure,2024-09-14,2024-09-15,9910.8
+440,Paul Jones,89,Female,Fracture,Casting,Stephanie Hale,Sunrise Medical Center,2024-05-24,2024-05-27,8334.16
+441,Alexa Reynolds,40,Male,Flu,Rest and Fluids,Christina Rivera,Hope Hospital,2024-05-22,2024-05-31,4054.3
+442,Ana George,58,Female,Asthma,Inhalers,Suzanne Coleman,Sunrise Medical Center,2024-12-20,2024-12-26,6765.79
+443,Richard Wade,62,Female,Diabetes,Insulin Therapy,Tina Chavez,Sunrise Medical Center,2024-12-02,2024-12-06,6408.13
+444,Marie Williams,51,Male,Diabetes,Insulin Therapy,Tina Chavez,Green Valley Clinic,2024-08-07,2024-08-09,5630.72
+445,Amanda Kennedy,11,Female,Asthma,Inhalers,Nathaniel Travis,Care & Cure,2025-02-14,2025-02-22,4796.62
+446,Zachary Shields,1,Female,Diabetes,Insulin Therapy,Nathaniel Travis,Green Valley Clinic,2025-01-05,2025-01-06,3063.16
+447,Bobby Burke,55,Female,Migraine,Pain Relievers,Christina Rivera,Hope Hospital,2025-01-22,2025-01-24,9733.7
+448,Robert Garcia,5,Female,Depression,Therapy,Adam Hernandez,Sunrise Medical Center,2024-08-29,2024-09-02,4296.82
+449,Christopher Hernandez,49,Male,Hypertension,Beta Blockers,Carrie Mcdaniel,Sunrise Medical Center,2024-12-20,2024-12-25,6024.09
+450,Jonathan Hinton,24,Female,Migraine,Pain Relievers,Brett Hays,Hope Hospital,2024-07-28,2024-08-04,9334.77
+451,Brenda Stephens,45,Female,COVID-19,Antivirals,Alexandria Jones,Sunrise Medical Center,2024-09-22,2024-09-26,8778.05
+452,Michelle Lopez,41,Female,Fracture,Casting,John Barajas,City Hospital,2024-07-02,2024-07-07,2737.39
+453,Katrina Lewis,20,Male,Flu,Rest and Fluids,Angela Rodriguez,Hope Hospital,2025-02-12,2025-02-17,3988.22
+454,Matthew Gibson,32,Male,Depression,Therapy,Dakota Huff,City Hospital,2025-01-23,2025-01-31,4231.44
+455,Andrew Rich,23,Female,Hypertension,Beta Blockers,Tina Chavez,City Hospital,2024-12-17,2024-12-22,5013.4
+456,Daniel Thomas,11,Male,COVID-19,Antivirals,Tina Chavez,Green Valley Clinic,2024-09-14,2024-09-18,9595.79
+457,Dr. Jasmine Smith,86,Female,Hypertension,Beta Blockers,Cody Robertson,Hope Hospital,2024-11-06,2024-11-09,6228.28
+458,Michael Gibson,8,Female,Migraine,Pain Relievers,Carrie Mcdaniel,City Hospital,2024-09-07,2024-09-13,6709.0
+459,Laurie Brown,36,Male,Fracture,Casting,John Barajas,City Hospital,2025-02-16,2025-02-19,9902.37
+460,John Lawson,34,Male,Flu,Rest and Fluids,Cody Robertson,Hope Hospital,2024-08-29,2024-09-04,6875.39
+461,Kimberly Parks,59,Female,Arthritis,NSAIDs,Suzanne Coleman,Care & Cure,2024-10-14,2024-10-21,8469.91
+462,Sara Solis,26,Female,Hypertension,Beta Blockers,Deborah Day,Hope Hospital,2024-05-31,2024-06-04,5317.36
+463,Paul Johnson,8,Female,Migraine,Pain Relievers,Michael Johnston,City Hospital,2025-04-11,2025-04-18,6604.5
+464,Lisa Brown,35,Male,Fracture,Casting,Ernest Johnson,Sunrise Medical Center,2025-04-26,2025-05-04,3006.56
+465,Candice Burns,60,Male,COVID-19,Antivirals,Nathaniel Travis,Green Valley Clinic,2024-05-28,2024-05-31,2723.11
+466,Brandon Mullins,34,Female,Migraine,Pain Relievers,Stephanie Hale,Green Valley Clinic,2024-07-10,2024-07-17,3576.87
+467,Jackson Hernandez,13,Male,COVID-19,Antivirals,Stephanie Hale,Sunrise Medical Center,2025-04-21,2025-04-22,5204.57
+468,Scott Smith,8,Female,Arthritis,NSAIDs,Alexandria Jones,Green Valley Clinic,2024-07-19,2024-07-23,8884.61
+469,George Guerra,61,Female,Hypertension,Beta Blockers,Adam Hernandez,Sunrise Medical Center,2024-11-25,2024-12-04,4352.86
+470,Jeffrey Gregory,44,Female,Migraine,Pain Relievers,Adam Hernandez,City Hospital,2024-10-14,2024-10-23,6241.23
+471,Jordan Delgado,44,Female,Asthma,Inhalers,Adam Hernandez,Hope Hospital,2024-12-30,2025-01-03,9045.54
+472,Patrick Kirby,56,Male,Depression,Therapy,Alexandria Jones,Care & Cure,2024-09-03,2024-09-11,2895.38
+473,Carol Baker,79,Male,COVID-19,Antivirals,John Barajas,Hope Hospital,2024-10-25,2024-10-28,3565.04
+474,Darrell Parker,30,Male,Diabetes,Insulin Therapy,Tina Chavez,Care & Cure,2024-08-12,2024-08-16,3671.12
+475,Amy Harris,84,Male,Depression,Therapy,Alexandria Jones,Green Valley Clinic,2024-07-11,2024-07-19,4715.66
+476,Luis Davis,16,Male,Fracture,Casting,Dakota Huff,Care & Cure,2024-05-25,2024-05-26,7771.8
+477,Jessica Price,3,Female,COVID-19,Antivirals,David Morgan,Hope Hospital,2024-06-14,2024-06-22,9961.37
+478,Kylie Fleming,71,Male,Asthma,Inhalers,Juan Jones,Sunrise Medical Center,2025-04-23,2025-04-27,9451.47
+479,Carrie Sparks,58,Male,Flu,Rest and Fluids,Alexandria Jones,Green Valley Clinic,2024-11-18,2024-11-26,3465.22
+480,Dr. Taylor Alexander MD,60,Male,COVID-19,Antivirals,Christina Rivera,Green Valley Clinic,2024-11-29,2024-12-06,5726.97
+481,Destiny Washington,78,Male,COVID-19,Antivirals,Dakota Huff,Care & Cure,2025-01-17,2025-01-21,3466.42
+482,Jasmine Wilson,47,Female,Asthma,Inhalers,Carrie Mcdaniel,Sunrise Medical Center,2024-11-14,2024-11-21,4381.56
+483,James Castro,4,Female,Arthritis,NSAIDs,Adam Hernandez,Green Valley Clinic,2024-06-18,2024-06-26,4970.6
+484,Kayla Adams,47,Female,Hypertension,Beta Blockers,Cody Robertson,Sunrise Medical Center,2025-04-22,2025-04-27,4075.43
+485,Sheryl Martin,50,Female,Allergy,Antihistamines,James Blair,Green Valley Clinic,2025-01-09,2025-01-14,9524.83
+486,Danielle Torres,39,Male,Depression,Therapy,John Barajas,Green Valley Clinic,2024-08-09,2024-08-16,7040.44
+487,Travis Lewis,61,Male,Arthritis,NSAIDs,Adam Hernandez,Care & Cure,2024-12-31,2025-01-09,2936.02
+488,Jamie Myers,74,Male,Allergy,Antihistamines,Tina Chavez,Care & Cure,2024-08-02,2024-08-08,4386.78
+489,William Parker,57,Female,Hypertension,Beta Blockers,Christina Rivera,City Hospital,2024-12-10,2024-12-14,1502.55
+490,Kevin Evans,63,Female,Arthritis,NSAIDs,Nathaniel Travis,Hope Hospital,2024-08-01,2024-08-10,5534.39
+491,Elizabeth Estes,10,Female,Asthma,Inhalers,Angela Rodriguez,Care & Cure,2024-08-12,2024-08-14,4565.21
+492,Allen Frederick,37,Male,Depression,Therapy,Alexandria Jones,Green Valley Clinic,2024-09-21,2024-09-29,9912.59
+493,Adam Harris,19,Female,Asthma,Inhalers,Michael Johnston,Sunrise Medical Center,2024-08-09,2024-08-19,3067.82
+494,Steven Schmidt,45,Female,Diabetes,Insulin Therapy,Christina Rivera,Hope Hospital,2024-05-24,2024-05-28,3061.83
+495,Gail Curtis,2,Female,Migraine,Pain Relievers,Stephanie Hale,Green Valley Clinic,2024-12-27,2025-01-04,1843.59
+496,Laura Long,29,Female,Diabetes,Insulin Therapy,Dakota Huff,Green Valley Clinic,2025-04-10,2025-04-18,9234.9
+497,John Barron,24,Female,Migraine,Pain Relievers,James Blair,Green Valley Clinic,2024-08-07,2024-08-16,8886.06
+498,Alicia Norris,71,Male,COVID-19,Antivirals,Brett Hays,City Hospital,2024-11-22,2024-11-29,9292.39
+499,Carrie Kemp,90,Female,Asthma,Inhalers,Ernest Johnson,Care & Cure,2024-07-29,2024-07-31,2729.95
+500,Veronica Mccarty,69,Female,Fracture,Casting,Stephanie Hale,City Hospital,2024-11-20,2024-11-28,5875.97
